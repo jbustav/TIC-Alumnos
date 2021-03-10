@@ -1,5 +1,5 @@
 ## Lista de personas
-
+- [Anaya Pareja, Vicente](Personas/vicente.anaya.md)
 - [Bustamante Vargas, José Ignacio](Personas/jose.ignacio.bustamante.md)
 - [Castillo, Flavio](Personas/flavio.castillo.md)
 - [Chordà Herrera, Marc](Personas/marc.chorda.md)
